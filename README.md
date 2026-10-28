@@ -1,5 +1,10 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:12372a,100:2ea043&text=Arijeet%20Kurse&fontColor=ffffff&fontSize=58&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Arijeet Kurse profile banner" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="58" alt="Arch Linux logo" />
 </p>
 
 <p align="center">
@@ -37,7 +42,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Currently_Building-PRiority_AI-238636?style=flat-square" alt="Currently building PRiority AI" />
   <img src="https://img.shields.io/badge/Learning-Rust-238636?style=flat-square" alt="Learning Rust" />
-  <img src="https://img.shields.io/badge/Environment-Arch_Linux-238636?style=flat-square" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
 </p>
 
 ---
@@ -57,6 +62,10 @@
 <p align="center"><strong>Databases & Tools</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,redis,git,github,neovim,linux,vscode&theme=dark" alt="MongoDB, Redis, Git, GitHub, Neovim, Linux and VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Powered%20by-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Powered by Arch Linux" />
 </p>
 
 ---
